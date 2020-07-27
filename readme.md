@@ -1,4 +1,4 @@
-<a align="center" href="https://alain.xyz"><img src="https://alain.xyz/blog/raw-opengl/assets/opengl-users.jpg"/></a>
+<a align="center" href="https://alain.xyz"><img src="https://alain.xyz/blog/portfolio-design-engineering/assets/cover.jpg"/></a>
 
 # Hi there! 👋
 
