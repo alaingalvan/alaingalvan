@@ -1,10 +1,15 @@
-<a align="center" href="https://alain.xyz"><img src="https://alain.xyz/blog/portfolio-design-engineering/assets/cover.jpg"/></a>
+<a align="center" href="https://alain.xyz"><img src="https://alain.xyz/blog/ray-tracing-acceleration-structures/assets/cover.svg"/></a>
 
-# Hi there! 👋
+## About Me
 
-My name is **Alain Galvan** *Pronounced (Alan Gal-vhan)*, Graphics Software Engineer @ [🔺 AMD](https://amd.com), previously at [🐒 Marmoset](https://marmoset.co) working 🌐 Remotely @ 🌴 West Palm Beach.
+I'm **Alain Galvan** *Pronounced (Alan Gal-vhan)*, a Member of Technical Staff at AMD, focused on improving the performance of ray tracing hardware.
 
-I'm *extremely* passionate about all aspects of computer graphics, be it making art, research, designing libraries and tools, or teaching. If you like those topics feel free to say hi here or on [🐦 Twitter (DMs Open!)](https://twitter.com/alainxyz), [👔 LinkedIn](https://linkedin.com/in/alaingalvan), <a rel="me" href="https://mastodon.social/@alainxyz">🐘 Mastodon</a> (<a rel="me" href="https://mastodon.gamedev.place/@alain">Mirror</a>) or [🎥 YouTube](https://www.youtube.com/channel/UCZ1nGzkq-OjDQlb07yP037g).
+I focus on GPGPU Computing, ray tracing, real time rendering, and teaching through lectures and interactive articles.
 
-[website-img]: https://alain.xyz/assets/brand/favicon/favicon-180.png
-[website-url]: https://alain.xyz
+## Connect
+
+- [🔼 My Website](https://alain.xyz)
+- [👔 LinkedIn](https://linkedin.com/in/alaingalvan)
+- [✖️ X (Twitter)](https://twitter.com/alainxyz)
+- <a rel="me" href="https://mastodon.social/@alainxyz">🐘 Mastodon</a> (<a rel="me" href="https://mastodon.gamedev.place/@alain">Mirror</a>)
+- [🎥 YouTube](https://www.youtube.com/channel/UCZ1nGzkq-OjDQlb07yP037g)
